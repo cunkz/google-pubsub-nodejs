@@ -1,0 +1,4 @@
+.env
+service-account.json
+package-lock.json
+node_modules/*
