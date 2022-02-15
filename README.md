@@ -1,6 +1,6 @@
 # Google Pub/Sub NodeJS Example
 
-This repository contain example for usage of Google Pub/Sub via NodeJS. 
+This repository contains examples of using Google Pub/Sub via NodeJS.
 
 ## Usage & Installation
 
