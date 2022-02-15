@@ -14,3 +14,7 @@ npm install
 After NodeJS module successfully installed, copy `.env.example` file into `.env` and fill value for each environment variable.
 
 Then, execute file `subsriber.js` to create new topic and subscription based `.env` configuration. Open new terminal, execute file `publisher.js` to submit single message into your topic and watch first terminal to check if message has been received.
+
+## Additional Information
+
+If you want to transfer message from pubsub into firestore, maybe you check [this repository](https://github.com/cunkz/google-cloud-function-pubsub-to-firestore)
