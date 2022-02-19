@@ -4,7 +4,7 @@ This repository contains examples of using Google Pub/Sub via NodeJS.
 
 ## Usage & Installation
 
-First, create Service Account that can access Google Pub/Sub (ex: Pub/Sub Admin) via Google IAM. You can continue to create new key using that service account and download it.
+First, create Service Account that can access Google Pub/Sub (ex Role : Pub/Sub Admin) via Google IAM. You can continue to create new key using that service account and download it.
 
 After you got the key, run this following command to install requirement NodeJS module :
 ```bash
@@ -17,4 +17,4 @@ Then, execute file `subsriber.js` to create new topic and subscription based `.e
 
 ## Additional Information
 
-If you want to transfer message from pubsub into firestore, maybe you check [this repository](https://github.com/cunkz/google-cloud-function-pubsub-to-firestore)
+If you want to transfer message from pubsub into firestore, maybe you can check [this repository](https://github.com/cunkz/google-cloud-function-pubsub-to-firestore)
