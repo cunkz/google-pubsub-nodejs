@@ -6,7 +6,7 @@ This repository contains examples of using Google Pub/Sub via NodeJS.
 
 First, create Service Account that can access Google Pub/Sub (ex: Pub/Sub Admin) via Google IAM. You can continue to create new key using that service account and download it.
 
-After you got the key, run this following command to install requirement NodeJS module  :
+After you got the key, run this following command to install requirement NodeJS module :
 ```bash
 npm install
 ```
